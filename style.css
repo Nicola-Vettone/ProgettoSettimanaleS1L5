@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+body{
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.65;
+    text-align: center;
+    color: #393d41;
+
+}
+body h1,h4,h5{
+    font-family: "Montserrat", sans-serif;
+    line-height: 1.5;
+    color: #25a2c3;
+    
+}
+header img{
+    width: 130px;
+    vertical-align: middle;
+    padding: 2em 8.4em 2em 8.3em;
+    background-color: black;
+   
+}
+header div{
+    background: url(./images/banner.jpg);
+    background-size: 26em;
+    background-repeat: no-repeat;
+    padding: 3em;
+    border: 5em;
+}
+header h1{
+    font-size: 1.9rem;
+}
+button{
+    background-color: #f04c2f;
+    color: white;
+    border-radius: 3px;
+    border-style: none;
+    padding: 10px 25px;
+}
+h4{
+    font-size: 1.3em;
+}
+
+section img{
+    border-radius: 50%;
+    width: 20em;
+    margin-top: 1.2em;
+}
+section{
+    margin-top: 2em;
+}
+section p{
+    font-size: 1.5rem;
+}
+#colore{
+    background-color: #e22d0e;
+    margin: 2em 0em 2em 0em;
+    padding-top: 3em;
+    padding-bottom: 2em;
+    
+}
+   
+h3{
+color: white;
+font-size: 1.6em;
+}
+section div{
+    margin: 1em;
+    color: white;
+}
+span p{
+    font-style: italic;
+    font-size: 1em;
+    margin-top: 1em;
+}
+.font{
+    font-style: normal;
+}
+.size{
+    font-size: 0.8em;
+    margin: 0;
+}
+article div{
+    border: 0.1em solid #dee1e3;
+    margin: 2em;
+    padding-bottom: 2em;
+    border-radius: 2%;
+}
+div img{
+    width: 100%;
+    
+}
+footer{
+    padding: 4em;
+    background-color: #c8e7f0;
+    color: white;
+}
+footer div{
+    border-bottom: 1px solid white;
+    margin-bottom: 1.5em;
+}
+footer div h3{
+    margin: 1em;
+}
+a{
+    color: white;
+}
