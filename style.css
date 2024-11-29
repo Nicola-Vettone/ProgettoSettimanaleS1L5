@@ -7,6 +7,7 @@ body{
     line-height: 1.65;
     text-align: center ;
     color: #393d41;
+    
 
 }
 body h1,h4,h5{
@@ -30,7 +31,9 @@ header div{
     padding: 3em;
     border: 5em;
     padding-top: 0;
+   
 }
+
 header {
     padding: 0em;
     background-color: black;
